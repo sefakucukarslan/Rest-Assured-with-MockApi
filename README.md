@@ -1,1 +1,1 @@
-RestAssured kullanarak yaptığım API testi.
+RestAssured with Mock API.
